@@ -1,0 +1,23 @@
+
+{
+    "name": "JTECH-session",
+    "description": "Web Session Generator",
+    "logo": "https://ibb.co/w9yTQ48",
+    "repository": "https://github.com/Kingjosh9y/jtech-session",
+    "keywords": ["Josh's-TECH"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
