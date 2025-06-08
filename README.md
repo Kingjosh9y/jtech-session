@@ -18,7 +18,7 @@
 
   <a href="https://github.com/Kingjosh9y/JTECH-WABOT/fork"><img title="JTECH-WABOT" src="https://img.shields.io/badge/FORK-JTECH-WABOTh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://ibb.co/w9yTQ48'/>
 
 🔑 Get Session ID (WhatsApp Pair Code Login)
 
@@ -28,10 +28,10 @@
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://ibb.co/w9yTQ48'/>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://ibb.co/w9yTQ48'/>
 
 2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
@@ -94,7 +94,7 @@ jobs:
     - name: Start application
       run: npm start
 ```
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://ibb.co/w9yTQ48'/>
 
 ### Thank You Dear
 
@@ -106,4 +106,4 @@ jobs:
 - [JTECH HELPER AI](https://github.com/Kingjosh9y)
 - For helping in bot plugin files.
 ---
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://ibb.co/w9yTQ48'/>
